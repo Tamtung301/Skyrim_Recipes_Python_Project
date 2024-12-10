@@ -1,0 +1,354 @@
+{
+  "potions": [
+    {
+      "name": "Potion of Minor Healing",
+      "effect": "Restore 25 points of Health",
+      "ingredients": ["Wheat", "Red Mountain Flower", "Blue Mountain Flower"],
+      "duration": "Instant",
+      "value": 21
+    },
+    {
+      "name": "Potion of Plentiful Healing",
+      "effect": "Restore 50 points of Health",
+      "ingredients": ["Blue Mountain Flower", "Butterfly Wing", "Rock Warbler Egg"],
+      "duration": "Instant",
+      "value": 44
+    },
+    {
+      "name": "Potion of Minor Magicka",
+      "effect": "Restore 25 points of Magicka",
+      "ingredients": ["Red Mountain Flower", "Mora Tapinella", "Butterfly Wing"],
+      "duration": "Instant",
+      "value": 19
+    },
+    {
+      "name": "Potion of Minor Stamina",
+      "effect": "Restore 25 points of Stamina",
+      "ingredients": ["Yellow Mountain Flower", "Red Mountain Flower", "Mora Tapinella"],
+      "duration": "Instant",
+      "value": 18
+    },
+    {
+      "name": "Potion of Enhanced Stamina",
+      "effect": "Restore 40 points of Stamina",
+      "ingredients": ["Purple Mountain Flower", "Bee", "Fly Amanita"],
+      "duration": "Instant",
+      "value": 33
+    },
+    {
+      "name": "Potion of Minor Healing",
+      "effect": "Restore 50 points of Health",
+      "ingredients": ["Blisterwort", "Blue Mountain Flower", "Blue Butterfly Wing"],
+      "duration": "Instant",
+      "value": 42
+    },
+    {
+      "name": "Potion of True Shot",
+      "effect": "Archery attacks do 20% more damage",
+      "ingredients": ["Canis Root", "Juniper Berries", "Elves Ear"],
+      "duration": "60 seconds",
+      "value": 67
+    },
+    {
+      "name": "Potion of Invisibility",
+      "effect": "Invisibility for 30 seconds",
+      "ingredients": ["Luna Moth Wing", "Vampire Dust", "Ice Wraith Teeth"],
+      "duration": "30 seconds",
+      "value": 262
+    },
+    {
+      "name": "Potion of Waterbreathing",
+      "effect": "Can breathe underwater",
+      "ingredients": ["Nordic Barnacle", "Salmon Roe", "River Betty"],
+      "duration": "300 seconds",
+      "value": 86
+    },
+    {
+      "name": "Potion of Light Feet",
+      "effect": "Move silently for 30 seconds",
+      "ingredients": ["Ice Wraith Teeth", "Nordic Barnacle", "Spider Egg"],
+      "duration": "30 seconds",
+      "value": 55
+    },
+    {
+      "name": "Potion of Resist Fire",
+      "effect": "Resist 50% of fire damage",
+      "ingredients": ["Dragon's Tongue", "Bone Meal", "Snowberries"],
+      "duration": "60 seconds",
+      "value": 85
+    },
+    {
+      "name": "Potion of Resist Frost",
+      "effect": "Resist 50% of frost damage",
+      "ingredients": ["Thistle Branch", "Snowberries", "Frost Mirriam"],
+      "duration": "60 seconds",
+      "value": 85
+    },
+    {
+      "name": "Potion of Resist Magic",
+      "effect": "Resist 25% of magic damage",
+      "ingredients": ["Tundra Cotton", "Lavender", "Nirnroot"],
+      "duration": "60 seconds",
+      "value": 151
+    },
+    {
+      "name": "Potion of Resist Poison",
+      "effect": "Resist 50% of poison damage",
+      "ingredients": ["Garlic", "Grass Pod", "Troll Fat"],
+      "duration": "60 seconds",
+      "value": 82
+    },
+    {
+      "name": "Potion of Fortify Carry Weight",
+      "effect": "Carry weight increased by 20 points",
+      "ingredients": ["Creep Cluster", "River Betty", "Giant's Toe"],
+      "duration": "300 seconds",
+      "value": 128
+    },
+    {
+      "name": "Potion of Fortify Smithing",
+      "effect": "Smithing skill improved by 25%",
+      "ingredients": ["Blisterwort", "Glowing Mushroom", "Sabre Cat Tooth"],
+      "duration": "60 seconds",
+      "value": 187
+    },
+    {
+      "name": "Potion of Fortify Sneak",
+      "effect": "Sneaking is 20% better",
+      "ingredients": ["Frost Mirriam", "Purple Mountain Flower", "Powdered Mammoth Tusk"],
+      "duration": "60 seconds",
+      "value": 91
+    },
+    {
+      "name": "Potion of Fortify Lockpicking",
+      "effect": "Lockpicking is 25% easier",
+      "ingredients": ["Falmer Ear", "Namira's Rot", "Spider Egg"],
+      "duration": "60 seconds",
+      "value": 83
+    },
+    {
+      "name": "Potion of Fortify One-handed",
+      "effect": "One-handed weapons do 30% more damage",
+      "ingredients": ["Bear Claws", "Canis Root", "Rock Warbler Egg"],
+      "duration": "60 seconds",
+      "value": 187
+    },
+    {
+      "name": "Potion of Fortify Two-handed",
+      "effect": "Two-handed weapons do 30% more damage",
+      "ingredients": ["Dragon's Tongue", "Fly Amanita", "Troll Fat"],
+      "duration": "60 seconds",
+      "value": 187
+    },
+    {
+      "name": "Potion of Fortify Destruction",
+      "effect": "Destruction spells cost 20% less to cast",
+      "ingredients": ["Glowing Mushroom", "Nightshade", "Wisp Wrappings"],
+      "duration": "60 seconds",
+      "value": 219
+    },
+    {
+      "name": "Potion of Fortify Restoration",
+      "effect": "Restoration spells cost 20% less to cast",
+      "ingredients": ["Abecean Longfin", "Cyrodilic Spadetail", "Salt Pile"],
+      "duration": "60 seconds",
+      "value": 219
+    },
+    {
+      "name": "Potion of Fortify Illusion",
+      "effect": "Illusion spells cost 20% less to cast",
+      "ingredients": ["Dragon's Tongue", "Mora Tapinella", "Scaly Pholiota"],
+      "duration": "60 seconds",
+      "value": 219
+    },
+    {
+      "name": "Potion of Fortify Alteration",
+      "effect": "Alteration spells cost 20% less to cast",
+      "ingredients": ["River Betty", "Spriggan Sap", "Grass Pod"],
+      "duration": "60 seconds",
+      "value": 219
+    },
+    {
+      "name": "Potion of Fortify Conjuration",
+      "effect": "Conjuration spells cost 20% less to cast",
+      "ingredients": ["Blue Butterfly Wing", "Blue Mountain Flower", "Lavender"],
+      "duration": "60 seconds",
+      "value": 219
+    },
+    {
+      "name": "Potion of Cure Disease",
+      "effect": "Cures all diseases",
+      "ingredients": ["Charred Skeever Hide", "Mudcrab Chitin", "Vampire Dust"],
+      "duration": "Instant",
+      "value": 79
+    },
+    {
+      "name": "Potion of Cure Poison",
+      "effect": "Cures poison",
+      "ingredients": ["Charred Skeever Hide", "Frostbite Spider Venom", "Mudcrab Chitin"],
+      "duration": "Instant",
+      "value": 67
+    },
+    {
+      "name": "Potion of Paralysis",
+      "effect": "Target is paralyzed",
+      "ingredients": ["Briar Heart", "Canis Root", "Swamp Fungal Pod"],
+      "duration": "10 seconds",
+      "value": 285
+    },
+    {
+      "name": "Potion of Regeneration",
+      "effect": "Health regenerates 50% faster",
+      "ingredients": ["Garlic", "Juniper Berries", "Nordic Barnacle"],
+      "duration": "300 seconds",
+      "value": 177
+    },
+    {
+      "name": "Potion of Vigor",
+      "effect": "Stamina regenerates 50% faster",
+      "ingredients": ["Bee", "Fly Amanita", "Purple Mountain Flower"],
+      "duration": "300 seconds",
+      "value": 177
+    },
+    {
+      "name": "Potion of Magic Regeneration",
+      "effect": "Magicka regenerates 50% faster",
+      "ingredients": ["Dwarven Oil", "Fire Salts", "Taproot"],
+      "duration": "300 seconds",
+      "value": 177
+    },
+    {
+      "name": "Potion of Ultimate Healing",
+      "effect": "Restore 100 points of Health",
+      "ingredients": ["Blue Mountain Flower", "Giant's Toe", "Wheat"],
+      "duration": "Instant",
+      "value": 219
+    },
+    {
+      "name": "Potion of Ultimate Magicka",
+      "effect": "Restore 100 points of Magicka",
+      "ingredients": ["Ectoplasm", "Red Mountain Flower", "White Cap"],
+      "duration": "Instant",
+      "value": 219
+    },
+    {
+      "name": "Potion of Ultimate Stamina",
+      "effect": "Restore 100 points of Stamina",
+      "ingredients": ["Bee", "Charred Skeever Hide", "Scaly Pholiota"],
+      "duration": "Instant",
+      "value": 219
+    },
+    {
+      "name": "Potion of Extra Health",
+      "effect": "Health increased by 50 points",
+      "ingredients": ["Bear Claws", "Giant's Toe", "Hanging Moss"],
+      "duration": "300 seconds",
+      "value": 219
+    },
+    {
+      "name": "Potion of Extra Magicka",
+      "effect": "Magicka increased by 50 points",
+      "ingredients": ["Creep Cluster", "Red Mountain Flower", "Tundra Cotton"],
+      "duration": "300 seconds",
+      "value": 219
+    },
+    {
+      "name": "Potion of Extra Stamina",
+      "effect": "Stamina increased by 50 points",
+      "ingredients": ["Dragon's Tongue", "Purple Mountain Flower", "Yellow Mountain Flower"],
+      "duration": "300 seconds",
+      "value": 219
+    },
+    {
+      "name": "Potion of Strength",
+      "effect": "Carrying capacity increased by 50 points",
+      "ingredients": ["Dragon's Tongue", "Giant's Toe", "Juniper Berries"],
+      "duration": "300 seconds",
+      "value": 219
+    },
+    {
+      "name": "Potion of the Warrior",
+      "effect": "One-handed and Two-handed attacks do 50% more damage",
+      "ingredients": ["Bear Claws", "Giant's Toe", "Sabre Cat Tooth"],
+      "duration": "60 seconds",
+      "value": 437
+    },
+    {
+      "name": "Potion of the Knight",
+      "effect": "Heavy Armor skill increased by 50 points",
+      "ingredients": ["Slaughterfish Scales", "Thistle Branch", "White Cap"],
+      "duration": "60 seconds",
+      "value": 319
+    },
+    {
+      "name": "Potion of the Thief",
+      "effect": "Sneaking is 40% better and Lockpicking is 40% easier",
+      "ingredients": ["Frost Salts", "Nordic Barnacle", "Small Pearl"],
+      "duration": "60 seconds",
+      "value": 437
+    },
+    {
+      "name": "Potion of the Assassin",
+      "effect": "One-handed sneak attacks do double damage",
+      "ingredients": ["Deathbell", "Imp Stool", "Mora Tapinella"],
+      "duration": "60 seconds",
+      "value": 437
+    },
+    {
+      "name": "Potion of the Ranger",
+      "effect": "Bow attacks do 50% more damage",
+      "ingredients": ["Canis Root", "Elves Ear", "Juniper Berries"],
+      "duration": "60 seconds",
+      "value": 437
+    },
+    {
+      "name": "Potion of the Battlemage",
+      "effect": "Destruction spells do 50% more damage",
+      "ingredients": ["Ectoplasm", "Fire Salts", "Glow Dust"],
+      "duration": "60 seconds",
+      "value": 437
+    },
+    {
+      "name": "Potion of the Scholar",
+      "effect": "All magic skills increase 15% faster",
+      "ingredients": ["Blue Mountain Flower", "Giant Lichen", "Hanging Moss"],
+      "duration": "300 seconds",
+      "value": 437
+    },
+    {
+      "name": "Potion of Well-being",
+      "effect": "Health, Magicka, and Stamina regenerate 50% faster",
+      "ingredients": ["Beehive Husk", "Moon Sugar", "Wisp Wrappings"],
+      "duration": "300 seconds",
+      "value": 437
+    },
+    {
+      "name": "Potion of Power",
+      "effect": "All weapon attacks do 50% more damage",
+      "ingredients": ["Bear Claws", "Giant's Toe", "Hawk Beak"],
+      "duration": "60 seconds",
+      "value": 437
+    },
+    {
+      "name": "Potion of Fortify Barter",
+      "effect": "Prices are 20% better",
+      "ingredients": ["Butterfly Wing", "Dragon's Tongue", "Tundra Cotton"],
+      "duration": "60 seconds",
+      "value": 285
+    },
+    {
+      "name": "Potion of Waterwalking",
+      "effect": "Can walk on water",
+      "ingredients": ["Nordic Barnacle", "Slaughterfish Scales", "Spike"],
+      "duration": "60 seconds",
+      "value": 147
+    },
+    {
+      "name": "Potion of the Shield",
+      "effect": "Increases armor rating by 50 points",
+      "ingredients": ["Bleeding Crown", "Fly Amanita", "Slaughterfish Scales"],
+      "duration": "60 seconds",
+      "value": 285
+    }
+  ]
+}
